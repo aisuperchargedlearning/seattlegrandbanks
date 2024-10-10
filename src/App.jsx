@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import PhotoCards from './components/PhotoCards'
 import Description from './components/Description'
 import Specs from './components/Specs'
+import DrawingImage from './components/DrawingImage'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
@@ -17,6 +18,7 @@ function App() {
         <PhotoCards />
         <Description />
         <Specs />
+        <DrawingImage />
         <Contact />
       </main>
       <Footer />
