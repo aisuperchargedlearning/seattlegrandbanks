@@ -29,7 +29,7 @@ const Specs = () => {
     { label: 'Cabins', value: '2' },
     { label: 'Sleeping places', value: '3' },
     { label: 'Number of main engine(s)', value: '2 x' },
-    { label: 'Power of main engine(s) (hp)', value: '150' },
+    { label: 'Power of main engine(s) (hp)', value: '210' },
     { label: 'Brand of main engine(s)', value: 'Cummins BT6' },
   ]
 
@@ -41,7 +41,7 @@ const Specs = () => {
     { label: 'Deck material', value: 'GRP' },
     { label: 'Superstructure material', value: 'GRP' },
     { label: 'Deck finish', value: 'Teak' },
-    { label: 'Fuel tank (Litre and material)', value: '2 x 750L, Fiberglass' },
+    { label: 'Fuel tank (Litre and material)', value: 'Dual fiberglass 195 Gallon tanks Total capacity 390 Gallons' },
     { label: 'Freshwater Tank (Liter and material)', value: '1135L (300 gal), Fiberglass' },
     { label: 'Antifouling (Year)', value: '2023' },
     { label: 'Maximum speed (Kn)', value: '-' },
@@ -52,7 +52,7 @@ const Specs = () => {
     { label: 'Beam', value: '3.86 m (12.7 ft)' },
     { label: 'Draft', value: '1.22 m (4 ft)' },
     { label: 'Displacement', value: '13 tonnes' },
-    { label: 'Fuel Capacity', value: '2 x 750L (396 gal), Fiberglass Tanks' },
+    { label: 'Fuel Capacity', value: 'Dual fiberglass 195 Gallon tanks Total capacity 390 Gallons' },
     { label: 'Fresh Water Capacity', value: '1135L (300 gal), Fiberglass' },
     { label: 'Engines', value: '2x Cummins BT6, 210HP each' },
     { label: 'Cruising Speed', value: '7 knots' },

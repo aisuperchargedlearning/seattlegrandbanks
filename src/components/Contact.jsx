@@ -6,15 +6,18 @@ const Contact = () => {
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-8">Contact Us</h2>
         <p className="text-lg mb-8">
-          Welcome to SeattleGrandBanks.com, your premier destination for classic trawler yachts. We specialize in showcasing and connecting enthusiasts with exceptional vessels like the 1991 Grand Banks 36 Europa. We have been actively involved with Grand Banks Yachts for 20 years and have gained both technical knowledge and understanding of the vessels, including mechanical, electronics, autopilot systems, and diesel technology. We are dedicated to providing detailed information and assistance to help you find the perfect yacht for your maritime adventures.
+          Welcome to SeattleGrandBanks.com. We are proud to present an exceptional Grand Banks Europa 36 Trawler, a vessel renowned for its superior craftsmanship and seaworthiness. This classic trawler design combines timeless aesthetics with practical functionality, making it perfectly suited for the diverse conditions of Pacific Northwest waters. The Europa 36's efficient hull design and reliable systems ensure comfortable cruising whether you're navigating the Inside Passage or exploring the San Juan Islands.
         </p>
-        <p className="text-lg font-semibold">
-          For inquiries or Grand Banks-related questions, please email us at:
-          <br />
-          <a href="mailto:info@seattlegrandbanks.com" className="text-amber-500 hover:underline">
-            info@seattlegrandbanks.com
-          </a>
+        <p className="text-lg mb-8">
+          Celebrated for its exceptional build quality and attention to detail, the Grand Banks Europa 36 offers a spacious interior with warm teak finishes and thoughtful accommodations that create an ideal living space for extended cruising. The protected walk-around decks and covered aft deck are particularly valuable features for our region's variable weather conditions.
         </p>
+        <p className="text-lg mb-8">
+          To arrange a viewing of this distinguished vessel or learn more about its specific features, please contact our experienced team at Ballastmarine@gmail.com. We look forward to sharing this remarkable Grand Banks trawler with you and discussing how it might serve your cruising aspirations in the Pacific Northwest.
+        </p>
+        <div className="mt-8">
+          <p className="text-xl font-semibold">Contact Email:</p>
+          <p className="text-lg">Ballastmarine@gmail.com</p>
+        </div>
       </div>
     </section>
   )
