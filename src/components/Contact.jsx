@@ -5,6 +5,10 @@ const Contact = () => {
     <section id="contact" className="py-16">
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-8">Contact Us</h2>
+        <div className="mb-8">
+          <p className="text-xl font-semibold">Contact Email:</p>
+          <p className="text-lg">Ballastmarine@gmail.com</p>
+        </div>
         <p className="text-lg mb-8">
           Welcome to SeattleGrandBanks.com. We are proud to present an exceptional Grand Banks Europa 36 Trawler, a vessel renowned for its superior craftsmanship and seaworthiness. This classic trawler design combines timeless aesthetics with practical functionality, making it perfectly suited for the diverse conditions of Pacific Northwest waters. The Europa 36's efficient hull design and reliable systems ensure comfortable cruising whether you're navigating the Inside Passage or exploring the San Juan Islands.
         </p>
